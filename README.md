@@ -3,7 +3,12 @@
 * Download this folder
 * Open this folder in visual studio code
 * Open a terminal
-* execute each script in turn, read and understand its output
+* execute each script in turn, read and understand its output eg : 
+
+```
+$ node exercise1.js
+> Hello
+```
 
 
 ## Exercise 0 
@@ -52,3 +57,10 @@ Write the work done in the previous exercises in ES5 or ES6 (depending which ver
 In a file `exercise5.js`:
 
 This will launch a (tiny) web server - Run the file, and then go and look at : ([Help - http](https://127.0.0.1:3000))
+
+
+
+---
+
+### Credits
+Initially Forked from  : https://github.com/feychou/baby-node
