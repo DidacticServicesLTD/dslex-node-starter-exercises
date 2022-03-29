@@ -9,8 +9,5 @@
   "type": "module",
   "keywords": [],
   "author": "",
-  "license": "ISC",
-  "dependencies": {
-    "axios": "^0.19.2"
-  }
+  "license": "ISC"
 }
