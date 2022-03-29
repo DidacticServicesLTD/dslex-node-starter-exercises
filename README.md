@@ -1,10 +1,10 @@
 # DSL - Node Exercises 
 
-download this folder
+* Download this folder
+* Open this folder in visual studio code
+* Open a terminal
+* execute each script in turn, read and understand its output
 
-```
-npm init -y
-```
 
 ## Exercise 0 
 ([Help - NPM](https://nodesource.com/blog/an-absolute-beginners-guide-to-using-npm/))
