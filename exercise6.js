@@ -3,6 +3,6 @@
 
 const chalk = require('chalk');
 
-console.log("Hello")
+console.log("Hello from Didactic Services")
 
 console.log(chalk.blue('This text is blue'));
