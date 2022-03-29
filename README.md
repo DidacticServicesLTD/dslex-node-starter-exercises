@@ -59,6 +59,17 @@ In a file `exercise5.js`:
 This will launch a (tiny) web server - Run the file, and then go and look at : ([Help - http](https://127.0.0.1:3000))
 
 
+## Exercise 6
+([Help - NPM](https://nodesource.com/blog/an-absolute-beginners-guide-to-using-npm/))
+* Create a NEW FOLDER
+* Open the terminal in the new folder
+* run the command : 
+``` npm init ```
+* What files did you create with the previous command?
+* What is the role of this file?
+* run the command : 
+``` npm install chalk ```
+
 
 ---
 
