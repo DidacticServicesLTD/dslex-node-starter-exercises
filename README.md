@@ -61,7 +61,7 @@ This will launch a (tiny) web server - Run the file, and then go and look at : (
 
 ## Exercise 6
 ([Help - NPM](https://nodesource.com/blog/an-absolute-beginners-guide-to-using-npm/))
-* Create a NEW FOLDER
+* Create a NEW FOLDER called npm_example6
 * Open the terminal in the new folder
 * run the command : 
 ``` npm init ```
@@ -69,7 +69,9 @@ This will launch a (tiny) web server - Run the file, and then go and look at : (
 * What is the role of this file?
 * run the command : 
 ``` npm install chalk ```
-
+* check the package.json file again - Can you see the reference to chalk?
+* what other files were downloded?
+* copy exercise6.js into the new folder
 
 ---
 
