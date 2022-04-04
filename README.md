@@ -61,7 +61,7 @@ This will launch a (tiny) web server - Run the file, and then go and look at : (
 
 ## Exercise 6
 ([Help - NPM](https://nodesource.com/blog/an-absolute-beginners-guide-to-using-npm/))
-* Create a NEW FOLDER called npm_example6
+* Create a NEW FOLDER called example6
 * Open the terminal in the new folder
 * run the command : 
 ``` npm init ```
@@ -72,8 +72,31 @@ This will launch a (tiny) web server - Run the file, and then go and look at : (
 * check the package.json file again - Can you see the reference to chalk?
 * what other files were downloded?
 * copy exercise6.js into the new folder
+* add ``` "type": "module" ``` to your ```package.json```
+* run ``` node exercise7.js ```
+
+## Exercise 7
+([Help - NPM](https://nodesource.com/blog/an-absolute-beginners-guide-to-using-npm/))
+* Create a NEW FOLDER called example7
+* Open the terminal in the new folder
+* run the command : 
+``` npm init ```
+* What files did you create with the previous command?
+* What is the role of this file?
+* run the command : 
+``` npm install chalk readline-sync```
+* check the package.json file again - Can you see the reference to chalk and readline-sync?
+* what other files were downloded?
+* copy exercise7.js into the new folder
+* add ``` "type": "module" ``` to your ```package.json```
+* run ``` node exercise7.js ```
 
 ---
 
+### Notes
+
+``` "type": "module" ``` has been added to ```package.json``` to allow the use of import syntax
+
 ### Credits
 Initially Forked from  : https://github.com/feychou/baby-node
+
