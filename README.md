@@ -91,6 +91,9 @@ This will launch a (tiny) web server - Run the file, and then go and look at : (
 * add ``` "type": "module" ``` to your ```package.json```
 * run ``` node exercise7.js ```
 
+## Exercise 8
+parseInt() is used to convert the strings to numbers
+
 ---
 
 ### Notes
