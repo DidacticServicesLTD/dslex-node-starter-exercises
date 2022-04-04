@@ -1,3 +1,5 @@
+![dsl-header](dsl-header.png)
+
 # DSL - Node Exercises 
 
 * Download this folder
@@ -103,3 +105,6 @@ parseInt() is used to convert the strings to numbers
 ### Credits
 Initially Forked from  : https://github.com/feychou/baby-node
 
+
+
+![dsl-footer](dsl-footer.png)
