@@ -96,6 +96,12 @@ This will launch a (tiny) web server - Run the file, and then go and look at : (
 ## Exercise 8
 parseInt() is used to convert the strings to numbers
 
+
+
+## Exercise 9
+This uses node-opcua
+The default end-point is from prosys simulation server
+
 ---
 
 ### Notes
