@@ -16,9 +16,10 @@ let simpleRead = async () => {
     console.log('Creating Session');
     const session = await client.createSession();
     
+    console.log('Reading Value');
     const dataValue = await session.read({ nodeId });
 
-    console.log(` value = ${dataValue.value.value.toString()}`);
+    console.log(`value = ${dataValue.value.value.toString()}`);
 
     await client.disconnect();
 };
